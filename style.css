@@ -1,0 +1,33 @@
+body{
+background-image: url(img/1579328289_40-82.jpg);}
+
+.glav{
+font-size: 60px;
+margin-left: 30%;}
+
+.treid{
+background-color: #BDB76B;
+width: 300px;
+height: 300px;
+font-size: 30px;}
+
+.infa{
+background-color: #BDB76B;
+width: 300px;
+height: 300px;
+font-size: 30px;
+margin-top: 100px;}
+
+.boost{
+
+background-color: #BDB76B;
+width: 300px;
+height: 360px;
+font-size: 30px;
+margin-top: 100px;}
+
+.vk{
+font-size: 40px;
+
+background-color: black;
+}
